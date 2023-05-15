@@ -1,0 +1,17 @@
+{
+  "name": "mean01",
+  "version": "1.0.0",
+  "description": "Primera aplicacion MEAN",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JoseDavidArcosTejeda",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "mongoose": "^6.11.1"
+  }
+}
